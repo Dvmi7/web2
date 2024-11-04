@@ -1,0 +1,199 @@
+#menuprincipal {
+    background-color: rgb(9, 9, 82);
+    width: 100%;
+}
+
+nav li {
+    list-style: none;
+}
+
+footer li {
+    list-style: none;
+}
+
+body {
+    background-color: rgba(241, 243, 209, 0.701);
+}
+
+nav {
+    background-color: rgb(9, 9, 82);
+}
+
+#menujuegos {
+    background-color: rgb(9, 9, 82);
+}
+.itemmenu {
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal
+}
+
+.generos {
+    color: aliceblue;
+}
+
+/* Página de soporte*/
+
+.titulosoporte {
+    text-align: center;
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.formulario {
+    background: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.textof1 {
+    color: rgb(133, 158, 179);
+}
+.textof2 {
+    color: rgb(133, 158, 179);
+}
+.textof3 {
+    color: rgb(133, 158, 179);
+}
+/* Fin página de soporte */
+
+
+footer {
+    background-color: rgb(9, 9, 82);
+}
+
+
+
+/* Página de softwares */
+.catsof {
+        font-family: "Oxanium", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 800;
+        font-style: normal
+    }
+.soft1 {
+    border-style: inset;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.soft2 {
+    border-style: inset;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.soft3 {
+    border-style: inset;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+/* Fin página de softwares */
+
+/* Página de juegos */
+
+.titujuegos {
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.juego1 {
+    border-style: inset;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+
+.juego2 {
+    border-style: inset;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.juego3 {
+    border-style: inset;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.juego4 {
+    border-style: inset;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.juego5 {
+    border-style: inset;
+    border-radius: 5px;
+    background-color: rgb(9, 9, 82);
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+/* Fin página de juegos */
+
+
+/* Página Principal */
+.titulo_principal {
+    text-align: center;
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+
+#iconos1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 40vh;
+}
+
+.fa-brands {
+    color: aliceblue;
+    font-size: 30px;
+    margin: 30%;
+}
+
+.fa-solid {
+    color: aliceblue;
+}
+
+/* Fin página Principal */

@@ -1,0 +1,63 @@
+.catalogo{
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+.desc { 
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal
+}
+
+#menuprincipal {
+    background-color: rgb(9, 9, 82);
+    width: 100%;
+}
+
+body {
+    background-color: rgba(241, 243, 209, 0.701);
+}
+
+nav {
+    background-color: rgb(9, 9, 82);
+}
+
+footer {
+    background-color: rgb(9, 9, 82);
+}
+
+nav li {
+    list-style: none;
+}
+
+footer li {
+    list-style: none;
+}
+
+#iconos1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 40vh;
+}
+
+.fa-brands {
+    color: aliceblue;
+    font-size: 30px;
+    margin: 30%;
+}
+
+.fa-solid {
+    color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    font-family: "Oxanium", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal
+}
